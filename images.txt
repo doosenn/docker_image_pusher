@@ -4,3 +4,5 @@ ghcr.io/ggerganov/llama.cpp:full
 nvidia/cuda:12.6.0-devel-ubuntu22.04
 
 node:18
+
+nginx:1.25

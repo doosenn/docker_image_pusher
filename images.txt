@@ -9,3 +9,6 @@ node:18
 nginx:1.25
 
 justsong/one-api:v0.6.8
+
+xprobe/xinference:v1.0.0
+xprobe/xinference:v0.16.3

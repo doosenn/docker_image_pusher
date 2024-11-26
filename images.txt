@@ -12,3 +12,7 @@ justsong/one-api:v0.6.8
 
 xprobe/xinference:v1.0.0
 xprobe/xinference:v0.16.3
+
+debian:bullseye-slim
+
+eclipse-temurin:17

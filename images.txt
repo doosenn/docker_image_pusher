@@ -1,3 +1,4 @@
+axolotlai/axolotl:main-20241212-py3.11-cu124-2.4.1
 axolotlai/axolotl:main-20241220-py3.11-cu124-2.4.1
 
 debian:bullseye-slim

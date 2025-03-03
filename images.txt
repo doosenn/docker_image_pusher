@@ -10,8 +10,6 @@ justsong/one-api:v0.6.8
 
 neo4j:4.4.39-community
 
-nginx:1.25
-
 nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
 nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 nvidia/cuda:12.4.1-devel-ubuntu22.04
@@ -20,4 +18,3 @@ nvidia/cuda:12.6.0-devel-ubuntu22.04
 nvidia/cuda:12.6.0-runtime-ubuntu22.04
 
 xprobe/xinference:v1.0.0
-xprobe/xinference:v0.16.3

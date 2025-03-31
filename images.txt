@@ -7,3 +7,5 @@ nvidia/cuda:12.4.1-devel-ubuntu22.04
 nvidia/cuda:12.4.1-runtime-ubuntu22.04
 nvidia/cuda:12.6.0-devel-ubuntu22.04
 nvidia/cuda:12.6.0-runtime-ubuntu22.04
+
+qwenllm/qwen-omni:2.5-cu121

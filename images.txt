@@ -6,4 +6,6 @@ nvidia/cuda:12.4.1-runtime-ubuntu22.04
 nvidia/cuda:12.6.0-devel-ubuntu22.04
 nvidia/cuda:12.6.0-runtime-ubuntu22.04
 
+lmsysorg/sglang:v0.4.8.post1-cu126
+
 vllm/vllm-openai:v0.9.1

@@ -8,4 +8,6 @@ nvidia/cuda:12.6.0-runtime-ubuntu22.04
 
 lmsysorg/sglang:v0.4.8.post1-cu126
 
-vllm/vllm-openai:v0.9.1
+quay.io/coreos/etcd:v3.5.0
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.2.5
